@@ -27,4 +27,4 @@ It uses the free [QRServer API](https://goqr.me/api/) to generate QR codes based
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/qr-code-generator.git
+   git clone https://github.com/MadeshV2002/qr-code-generator.git
